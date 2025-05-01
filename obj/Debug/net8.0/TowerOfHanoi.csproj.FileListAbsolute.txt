@@ -1,0 +1,14 @@
+C:\Temp\Fibonacci\Fibonacci\bin\Debug\net8.0\TowerOfHanoi.exe
+C:\Temp\Fibonacci\Fibonacci\bin\Debug\net8.0\TowerOfHanoi.deps.json
+C:\Temp\Fibonacci\Fibonacci\bin\Debug\net8.0\TowerOfHanoi.runtimeconfig.json
+C:\Temp\Fibonacci\Fibonacci\bin\Debug\net8.0\TowerOfHanoi.dll
+C:\Temp\Fibonacci\Fibonacci\bin\Debug\net8.0\TowerOfHanoi.pdb
+C:\Temp\Fibonacci\Fibonacci\obj\Debug\net8.0\TowerOfHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Fibonacci\Fibonacci\obj\Debug\net8.0\TowerOfHanoi.AssemblyInfoInputs.cache
+C:\Temp\Fibonacci\Fibonacci\obj\Debug\net8.0\TowerOfHanoi.AssemblyInfo.cs
+C:\Temp\Fibonacci\Fibonacci\obj\Debug\net8.0\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Temp\Fibonacci\Fibonacci\obj\Debug\net8.0\TowerOfHanoi.dll
+C:\Temp\Fibonacci\Fibonacci\obj\Debug\net8.0\refint\TowerOfHanoi.dll
+C:\Temp\Fibonacci\Fibonacci\obj\Debug\net8.0\TowerOfHanoi.pdb
+C:\Temp\Fibonacci\Fibonacci\obj\Debug\net8.0\TowerOfHanoi.genruntimeconfig.cache
+C:\Temp\Fibonacci\Fibonacci\obj\Debug\net8.0\ref\TowerOfHanoi.dll
